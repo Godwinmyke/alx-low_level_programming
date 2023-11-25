@@ -1,4 +1,4 @@
-#include "head.h"
+#include "main.h"
 /**
  * main - This is the main function
  * Return: Always 0

@@ -1,4 +1,4 @@
-#ifndef head
-#define head
+#ifndef main
+#define main
 int _putchar(char c);
 #endif
